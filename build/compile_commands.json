@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/nickl/OneDrive/Dokumenter/Programmer/Week_12/assignment-12-Noxvice/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/mymath.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\mymath.dir\\src\\In_Duration.cpp.obj -c C:\\Users\\nickl\\OneDrive\\Dokumenter\\Programmer\\Week_12\\assignment-12-Noxvice\\src\\In_Duration.cpp",
+  "file": "C:/Users/nickl/OneDrive/Dokumenter/Programmer/Week_12/assignment-12-Noxvice/src/In_Duration.cpp"
+},
+{
+  "directory": "C:/Users/nickl/OneDrive/Dokumenter/Programmer/Week_12/assignment-12-Noxvice/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c C:\\Users\\nickl\\OneDrive\\Dokumenter\\Programmer\\Week_12\\assignment-12-Noxvice\\src\\main.cpp",
+  "file": "C:/Users/nickl/OneDrive/Dokumenter/Programmer/Week_12/assignment-12-Noxvice/src/main.cpp"
+},
+{
+  "directory": "C:/Users/nickl/OneDrive/Dokumenter/Programmer/Week_12/assignment-12-Noxvice/build/tests",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/tests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\tests.dir\\src\\tests.cpp.obj -c C:\\Users\\nickl\\OneDrive\\Dokumenter\\Programmer\\Week_12\\assignment-12-Noxvice\\tests\\src\\tests.cpp",
+  "file": "C:/Users/nickl/OneDrive/Dokumenter/Programmer/Week_12/assignment-12-Noxvice/tests/src/tests.cpp"
+}
+]
